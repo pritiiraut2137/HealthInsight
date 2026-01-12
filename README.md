@@ -1,4 +1,4 @@
-# Smart Health Dashboard (Minimal)
+# HealthInsight
 
 A minimal health dashboard with Machine Learning integration.
 
